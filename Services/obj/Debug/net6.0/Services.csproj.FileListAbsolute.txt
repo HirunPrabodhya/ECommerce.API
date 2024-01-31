@@ -1,0 +1,34 @@
+E:\Practical\ASP web API\MyShop\Services\bin\Debug\net6.0\Services.deps.json
+E:\Practical\ASP web API\MyShop\Services\bin\Debug\net6.0\Services.dll
+E:\Practical\ASP web API\MyShop\Services\bin\Debug\net6.0\Services.pdb
+E:\Practical\ASP web API\MyShop\Services\bin\Debug\net6.0\Data.dll
+E:\Practical\ASP web API\MyShop\Services\bin\Debug\net6.0\Models.dll
+E:\Practical\ASP web API\MyShop\Services\bin\Debug\net6.0\Data.pdb
+E:\Practical\ASP web API\MyShop\Services\bin\Debug\net6.0\Models.pdb
+E:\Practical\ASP web API\MyShop\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\Practical\ASP web API\MyShop\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical\ASP web API\MyShop\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\Practical\ASP web API\MyShop\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\Practical\ASP web API\MyShop\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\Practical\ASP web API\MyShop\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\Practical\ASP web API\MyShop\Services\obj\Debug\net6.0\Services.dll
+E:\Practical\ASP web API\MyShop\Services\obj\Debug\net6.0\refint\Services.dll
+E:\Practical\ASP web API\MyShop\Services\obj\Debug\net6.0\Services.pdb
+E:\Practical\ASP web API\MyShop\Services\obj\Debug\net6.0\ref\Services.dll
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\bin\Debug\net6.0\Services.deps.json
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\bin\Debug\net6.0\Services.dll
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\bin\Debug\net6.0\Services.pdb
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\bin\Debug\net6.0\Data.dll
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\bin\Debug\net6.0\Models.dll
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\bin\Debug\net6.0\Data.pdb
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\bin\Debug\net6.0\Models.pdb
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\obj\Debug\net6.0\Services.csproj.AssemblyReference.cache
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\obj\Debug\net6.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\obj\Debug\net6.0\Services.AssemblyInfoInputs.cache
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\obj\Debug\net6.0\Services.AssemblyInfo.cs
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\obj\Debug\net6.0\Services.csproj.CoreCompileInputs.cache
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\obj\Debug\net6.0\Services.csproj.CopyComplete
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\obj\Debug\net6.0\Services.dll
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\obj\Debug\net6.0\refint\Services.dll
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\obj\Debug\net6.0\Services.pdb
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Services\obj\Debug\net6.0\ref\Services.dll

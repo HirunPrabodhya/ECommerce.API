@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qsOy9TeOuh5e5AhFT0wTPSqGn/VIxlgct0V2MMmHDM/WcADH25Bg+9b0hIYoTpg2NhMWnNgYeNvafDGrpC71VQ==",
+  "success": true,
+  "projectFilePath": "E:\\Practical\\ASP web api wth angular\\TestProject\\BackEnd\\MyShop\\Models\\Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hirun\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\hirun\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\hirun\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

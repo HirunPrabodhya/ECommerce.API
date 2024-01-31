@@ -1,0 +1,24 @@
+E:\Practical\ASP web API\MyShop\Models\bin\Debug\net6.0\Models.deps.json
+E:\Practical\ASP web API\MyShop\Models\bin\Debug\net6.0\Models.dll
+E:\Practical\ASP web API\MyShop\Models\bin\Debug\net6.0\Models.pdb
+E:\Practical\ASP web API\MyShop\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+E:\Practical\ASP web API\MyShop\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical\ASP web API\MyShop\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+E:\Practical\ASP web API\MyShop\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+E:\Practical\ASP web API\MyShop\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+E:\Practical\ASP web API\MyShop\Models\obj\Debug\net6.0\Models.dll
+E:\Practical\ASP web API\MyShop\Models\obj\Debug\net6.0\refint\Models.dll
+E:\Practical\ASP web API\MyShop\Models\obj\Debug\net6.0\Models.pdb
+E:\Practical\ASP web API\MyShop\Models\obj\Debug\net6.0\ref\Models.dll
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Models\bin\Debug\net6.0\Models.deps.json
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Models\bin\Debug\net6.0\Models.dll
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Models\bin\Debug\net6.0\Models.pdb
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Models\obj\Debug\net6.0\Models.dll
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Models\obj\Debug\net6.0\refint\Models.dll
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Models\obj\Debug\net6.0\Models.pdb
+E:\Practical\ASP web api wth angular\TestProject\BackEnd\MyShop\Models\obj\Debug\net6.0\ref\Models.dll
